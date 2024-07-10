@@ -24,6 +24,8 @@ upward trend starting around 2016. The number of registered vehicles grows modes
 more rapidly from 2017 onwards. The year 2023 shows a particularly sharp increase in registered EVs, with the bar for 
 2023 is the highest on the graph, indicating a peak in EV adoption.
 
+--
+
 The top 10 models with the highest average electric range
 
 ![top 10 models with highest avg electric range](https://github.com/raman2-dev/EV-Market-Size-Analysis/assets/80435227/2256ad19-e68e-42e8-a871-1e468ac8d185)
